@@ -2,6 +2,7 @@ body {
     background-color: linen;
     color: darkmagenta;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
 }
 footer {
         font-size:small;
